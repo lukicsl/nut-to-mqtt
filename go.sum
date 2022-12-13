@@ -3,7 +3,7 @@ github.com/eclipse/paho.mqtt.golang v1.2.0 h1:1F8mhG9+aO5/xpdtFkW4SxOJB67ukuDC3t
 github.com/eclipse/paho.mqtt.golang v1.2.0/go.mod h1:H9keYFcgq3Qr5OUJm/JZI/i6U7joQ8SYLhZwfeOo6Ts=
 github.com/ijustfool/docker-secrets v0.0.0-20191021062307-b25ea5007562 h1:v7V+wm1nJzV1NKyuTRKb8UwHJ7gm9fBV4mqANfQxu+8=
 github.com/ijustfool/docker-secrets v0.0.0-20191021062307-b25ea5007562/go.mod h1:Y7sfMPseINeLXpzmLeRxHD2rdekjyjl91m0T+DC1UCM=
-github.com/jnovack/go-version v1.0.0 h1:Rq7qySfkkjaEJeSV8Oh8nl6ZFNCga6KcsG5zmDPDDro=
+github.com/jnovack/go-version v1.0.0 h1:jfpycBBIvyzJRH0TJAXaFyDRoSHHBs9c6m703ELkYxw=
 github.com/jnovack/go-version v1.0.0/go.mod h1:s8DZ+9C9fQ7sK2KO8KDvuAIJgX+nzHGfXxgZyV/aGrY=
 github.com/mattn/go-isatty v0.0.12 h1:wuysRhFDzyxgEmMf5xjvJ2M9dZoWAXNNr5LSBS7uHXY=
 github.com/mattn/go-isatty v0.0.12/go.mod h1:cbi8OIDigv2wuxKPP5vlRcQ1OAZbq2CE4Kysco4FUpU=
